@@ -41,3 +41,4 @@ coverage/
 # mcp
 .mcp.json
 .playwright-mcp/
+/README2.md
